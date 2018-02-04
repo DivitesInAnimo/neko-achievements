@@ -1,4 +1,4 @@
-- &defaults
+ &defaults
   neko_id: animelist
   level: 1
   algo: simple
@@ -10,7 +10,7 @@
     border_color: "#e52b50"
     topic_id: 227416
 
-- <<: *defaults
+ <<: *defaults
   level: 2
   threshold: 50
   metadata:
@@ -19,7 +19,7 @@
     image: https://shikimori.org/assets/achievements/anime/list_2-0d3f017394ff1743a05c4971ef759a3fe3c17c6520c3e0cb7a7d8e2eea23f576.jpg
     border_color: "#ff0000"
 
-- <<: *defaults
+ <<: *defaults
   level: 3
   threshold: 100
   metadata:
